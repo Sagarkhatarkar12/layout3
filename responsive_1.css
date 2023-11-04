@@ -1,0 +1,147 @@
+@media screen and (max-width:1233px) {
+    body {
+        /* background-color: deeppink; */
+    }
+
+    .right-nav {
+        display: none;
+
+    }
+
+    .right-navigation {
+        display: none;
+    }
+
+    /* .slide{
+        height: 100%;
+        width: 100%;
+        flex-direction: column;
+    } */
+
+    .txt-container {
+        margin-top: 30px;
+        height: 100%;
+        width: 100%;
+        flex-direction: column;
+    }
+
+    .slider {
+        height: 100%;
+        width: 100%;
+
+    }
+
+    .nav-container {
+        padding: 0px 0px;
+    }
+}
+
+@media screen and (max-width:880px) {
+    .line {
+        margin-bottom: 40px;
+
+    }
+
+    .con {
+        display: block;
+    }
+
+    .slider {
+
+        margin-top: 0px;
+        min-height: 100vh;
+    }
+
+    .left-nav-s {
+        display: none;
+    }
+
+    .r {
+        /* display: flex; */
+        padding: 0px;
+    }
+
+    .nav-container {
+        /* padding: 0px 0px; */
+        padding: 0px 0px;
+    }
+
+    .box-1 {
+        height: 390px;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+
+
+    }
+
+    .box-2 {
+        margin-left: 0px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        width: 100%;
+
+
+    }
+
+    .box-3 {
+        margin-left: 0px;
+        margin-left: 0px;
+        height: 400px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        width: 100%;
+    }
+
+    .contain {
+        margin-top: 40px;
+        width: 100%;
+
+        text-align: center;
+    }
+
+    .line {
+        /* margin-top: 20px; */
+        width: 200px;
+        margin-bottom: 50px;
+    }
+
+    .contain h1 {
+        font-size: 30px;
+    }
+
+    .img-con {
+        height: 242px;
+        width: 242px;
+    }
+
+    .btn {
+        font-size: 20px;
+    }
+
+    .txt-container {
+        height: 100%;
+
+    }
+
+    .txt-container {
+
+
+        display: flex;
+        justify-content: normal;
+        width: 100%;
+        flex-wrap: wrap;
+        align-items: center;
+    }
+
+    .container {
+        /* min-height: 110vh; */
+
+    }
+}
